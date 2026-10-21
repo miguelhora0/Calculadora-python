@@ -1,4 +1,4 @@
-# 🧮 Calculadora Python
+# Calculadora Python
 
 Uma calculadora desenvolvida em Python que permite realizar operações matemáticas por meio de expressões digitadas no terminal.
 
